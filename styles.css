@@ -1,0 +1,22 @@
+body{
+    max-width: 760px;
+    margin: 0 auto;
+    background-color: oldlace;
+}
+
+h1{
+    background-color: cadetblue;
+    padding: 15px;
+    border-radius: 50px;
+    text-align: center;
+    color: oldlace;
+}
+li{
+    font-size: large;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 70vh;
+}
